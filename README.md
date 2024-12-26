@@ -1,4 +1,9 @@
-# FULL_ADDER_SUBTRACTOR
+**NAME:NANDIKA S**
+
+
+**REGISTRATION NUMBER:24010030**
+
+## EXPERIEMENT-4 FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
