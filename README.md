@@ -3,7 +3,7 @@
 
 **REGISTRATION NUMBER:24010030**
 
-## EXPERIEMENT-4 FULL_ADDER_SUBTRACTOR
+## EXPERIEMENT-4 Implementation of FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
